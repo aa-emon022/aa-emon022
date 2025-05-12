@@ -28,15 +28,14 @@
 <table align="center" cellpadding="10">
   <tr>
     <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=aa-emon022&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" style="border-radius: 15px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      </a>
+        <img src="https://github-readme-stats.vercel.app/api?username=aa-emon022&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="200" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-emon022&layout=compact&theme=dark" alt="Top Languages" height="200" style="border-radius: 15px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-emon022&layout=compact&theme=radical" alt="Top Languages" height="200" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
     </td>
   </tr>
 </table>
+
 
 
 
