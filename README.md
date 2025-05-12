@@ -41,48 +41,60 @@
 <h3 align="left">I work with the following technologies</h3>
 <p align="left">
     <!-- JavaScript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 10px;"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript" style="margin: 20px; text-align: center; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+        <br/>JavaScript
     </a>
     <!-- PHP -->
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="margin: 10px;"/>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP" style="margin: 20px; text-align: center; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
+        <br/>PHP
     </a>
     <!-- Laravel -->
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="50" height="50" style="margin: 10px;"/>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel" style="margin: 20px; text-align: center; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="50" height="50"/>
+        <br/>Laravel
     </a>
     <!-- React -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React.js">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50" style="margin: 10px;"/>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React.js" style="margin: 20px; text-align: center; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
+        <br/>React.js
     </a>
     <!-- Next.js -->
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50" style="margin: 10px;"/>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js" style="margin: 20px; text-align: center; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
+        <br/>Next.js
     </a>
     <!-- MySQL -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin: 10px;"/>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL" style="margin: 20px; text-align: center; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+        <br/>MySQL
     </a>
     <!-- Oracle -->
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" title="Oracle">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50" style="margin: 10px;"/>
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" title="Oracle" style="margin: 20px; text-align: center; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
+        <br/>Oracle
     </a>
     <!-- Firebase -->
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50" style="margin: 10px;"/>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase" style="margin: 20px; text-align: center; display: inline-block;">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+        <br/>Firebase
     </a>
     <!-- Amazon Web Services (AWS) -->
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" title="AWS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50" style="margin: 10px;"/>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" title="AWS" style="margin: 20px; text-align: center; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50"/>
+        <br/>AWS
     </a>
     <!-- Framer Motion -->
-    <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer" title="Framer Motion">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="framer-motion" width="50" height="50" style="margin: 10px;"/>
+    <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer" title="Framer Motion" style="margin: 20px; text-align: center; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="framer-motion" width="50" height="50"/>
+        <br/>Framer Motion
     </a>
     <!-- Socket.IO -->
-    <a href="https://socket.io/" target="_blank" rel="noreferrer" title="Socket.IO">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="50" height="50" style="margin: 10px;"/>
+    <a href="https://socket.io/" target="_blank" rel="noreferrer" title="Socket.IO" style="margin: 20px; text-align: center; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="50" height="50"/>
+        <br/>Socket.IO
     </a>
 </p>
+
 
