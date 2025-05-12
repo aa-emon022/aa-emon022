@@ -1,20 +1,31 @@
-<h1 align="center">Welcome 👋</h1>
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
+
+<p align="center" style="font-size:18px;">
+  <strong>🌟 Hi, I'm <span style="color:#f39c12;">Abdullah Al Emon</span></strong><br>
+  🚀 A passionate <strong>Full-Stack Architect</strong> specializing in building scalable and high-performance <strong>ERP Solutions</strong>.
+</p>
 
 <p align="center">
-  <p align="center" style="font-size: 18px;">
-  🌟 Hi, I'm <b>Abdullah Al Emon</b>, a Full-Stack Architect specializing in scalable ERP solutions. 🌟<br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="480" height="270" />
 </p>
 
-
+<p align="center" style="font-size:16px;">
+  🌐 I love to collaborate, learn, and contribute to the tech community.<br>
+  📬 <strong>Let’s connect and build something amazing together!</strong>
 </p>
-
-<!-- <p align="center">
-  <img src="lyf.gif" alt="Welcome GIF" width="480" height="270"/>
-</p> -->
 
 <p align="center">
-  🌟 Let's connect and collaborate! Feel free to reach out. 🌟
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shabab239/" target="_blank" rel="noreferrer" title="LinkedIn">
@@ -47,66 +58,44 @@
 ---
 <br>
 
-<h3 align="left">I work with the following technologies</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: left; margin: 10px 0;">
-    <!-- JavaScript -->
-    <div style="margin: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-        <br/>JavaScript
-    </div>
-    <!-- PHP -->
-    <div style="margin: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-        <br/>PHP
-    </div>
-    <!-- Laravel -->
-    <div style="margin: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="50" height="50"/>
-        <br/>Laravel
-    </div>
-    <!-- React -->
-    <div style="margin: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-        <br/>React.js
-    </div>
-    <!-- Next.js -->
-    <div style="margin: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
-        <br/>Next.js
-    </div>
-  <br>
-    <!-- MySQL -->
-    <div style="margin: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-        <br/>MySQL
-    </div>
-    <!-- Oracle -->
-    <div style="margin: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
-        <br/>Oracle
-    </div>
-    <!-- Firebase -->
-    <div style="margin: 20px; text-align: center;">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
-        <br/>Firebase
-    </div>
-  <br>
-    <!-- Amazon Web Services (AWS) -->
-    <div style="margin: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50"/>
-        <br/>AWS
-    </div>
-    <!-- Framer Motion -->
-    <div style="margin: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="framer-motion" width="50" height="50"/>
-        <br/>Framer Motion
-    </div>
-    <!-- Socket.IO -->
-    <div style="margin: 20px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="50" height="50"/>
-        <br/>Socket.IO
-    </div>
-</div>
+<table align="center" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" /><br/>JavaScript
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" /><br/>PHP
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="50" height="50" /><br/>Laravel
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" /><br/>React.js
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" /><br/>Next.js
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" /><br/>MySQL
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" /><br/>Oracle
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" /><br/>Firebase
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" /><br/>AWS
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="50" height="50" /><br/>Socket.IO
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" width="50" height="50" /><br/>Framer Motion
+    </td>
+  </tr>
+</table>
+
 
 
 
