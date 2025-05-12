@@ -1,40 +1,37 @@
-<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <h1>👋 Welcome to My GitHub Profile!</h1>
+      <p style="font-size:18px;">
+        🌟 Hi, I'm <b style="color:#f39c12;">Abdullah Al Emon</b><br>
+        🚀 A passionate <b>Full-Stack Architect</b> <br>
+        Specialized in building scalable and high-performance <b>ERP Solutions</b>.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300" />
+    </td>
+    <td align="center" width="50%">
+      <p style="font-size:16px;">
+        🌐 I love to collaborate, learn, and contribute to the tech community.<br><br>
+        📬 <b>Let’s connect and build something amazing together!</b>
+      </p>
+      <br>
+      <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+      </a>
+      <a href="mailto:your-email@example.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <a href="https://yourportfolio.com" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center" style="font-size:18px;">
-  <strong>🌟 Hi, I'm <span style="color:#f39c12;">Abdullah Al Emon</span></strong><br>
-  🚀 A passionate <strong>Full-Stack Architect</strong> specializing in building scalable and high-performance <strong>ERP Solutions</strong>.
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="480" height="270" />
-</p>
-
-<p align="center" style="font-size:16px;">
-  🌐 I love to collaborate, learn, and contribute to the tech community.<br>
-  📬 <strong>Let’s connect and build something amazing together!</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shabab239/" target="_blank" rel="noreferrer" title="LinkedIn">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:shabab239@example.com" target="_blank" rel="noreferrer" title="Email">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
-  </a>
-</p>
 
 <table align="center" cellpadding="10">
   <tr>
