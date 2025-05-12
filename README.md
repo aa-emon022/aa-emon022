@@ -32,14 +32,14 @@
         <img src="https://github-readme-stats-shabab-ahmeds-projects-847bf735.vercel.app/api?username=shabab239&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" height="200">
       </a>
     </td>
-        <td>
+    <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aa-emon022&show_icons=true&count_private=true)
-" alt="Top Langs" height="200">
+        <img src="https://github-readme-stats.vercel.app/api?username=aa-emon022&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="200">
       </a>
     </td>
   </tr>
 </table>
+
 
 <br>
 
