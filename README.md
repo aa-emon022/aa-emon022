@@ -1,105 +1,123 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full-Stack+Architect;ERP+Solutions+Expert;Tech+Enthusiast;Continuous+Learner" alt="Typing Animation" />
-</div>
-
-<!-- Animated Waves Separator -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aa-emon022/aa-emon022/main/wave.svg" width="100%" height="150" />
-</div>
-
-<!-- Profile Section -->
-<table align="center" style="border-collapse: collapse; margin: 25px 0; animation: fadeIn 1.5s ease-in;">
+<!-- Profile Header -->
+<table align="center">
   <tr>
-    <td align="center" style="padding: 20px;">
-      <div style="position: relative; display: inline-block;">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300" style="border-radius: 50%; border: 3px solid #20C20E; box-shadow: 0 0 20px rgba(32, 194, 14, 0.4);" />
-        <div style="position: absolute; bottom: -10px; left: 50%; transform: translateX(-50%); background: rgba(32, 194, 14, 0.9); padding: 5px 15px; border-radius: 20px; color: white; font-weight: bold;">Coding 24/7</div>
-      </div>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <h2 style="color: #20C20E; font-size: 2.5em; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Abdullah Al Emon</h2>
-      <p style="font-size: 1.2em; color: #ffffffcc;">
-        🚀 Transforming business operations through<br>
-        <span style="color: #20C20E; font-weight: bold;">Scalable ERP Solutions</span><br>
-        💡 Passionate about architecture & clean code
+    <td align="center" colspan="2">
+      <h1>👋 Welcome to My GitHub Profile!</h1>
+      <p style="font-size:18px;">
+        🌟 Hi, I'm <b style="color:#f39c12;">Abdullah Al Emon</b><br>
+        🚀 A passionate <b>Full-Stack Architect</b><br>
+        Specialized in building scalable and high-performance <b>ERP Solutions</b>.
       </p>
-      <div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px;">
-        <a href="https://linkedin.com/in/your-profile" target="_blank" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/-LinkedIn-20C20E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-        </a>
-        <a href="mailto:your-email@example.com" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/-Email-20C20E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-        </a>
-      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300" />
+    </td>
+    <td align="center" width="50%">
+      <p style="font-size:16px;">
+        🌐 I love to collaborate, learn, and contribute to the tech community.<br><br>
+        📬 <b>Let’s connect and build something amazing together!</b>
+      </p>
+      <br>
+      <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+      </a>
+      <a href="mailto:your-email@example.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <a href="https://yourportfolio.com" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
 
-<!-- Animated Stats -->
-<div align="center" style="margin: 40px 0;">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=aa-emon022&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&border_color=20C20E" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 0 15px rgba(32, 194, 14, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-emon022&layout=compact&theme=dark&bg_color=0d1117&title_color=20C20E&border_color=20C20E" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 0 15px rgba(32, 194, 14, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-  </div>
-</div>
+---
 
-<!-- Project Showcase -->
-<h2 align="center" style="color: #20C20E; margin: 40px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🚀 Featured Projects</h2>
+### 📊 GitHub Stats
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; padding: 0 20px;">
-  <!-- Project 1 -->
-  <div style="background: #161b22; padding: 20px; border-radius: 15px; border: 1px solid #20C20E; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
-    <h3 style="color: #20C20E;">Garment Tracker 👕</h3>
-    <p>End-to-end production tracking system for garment industry</p>
-    <a href="https://github.com/aa-emon022/garment-tracker" target="_blank">
-      <img src="https://img.shields.io/badge/-Repository-20C20E?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-    </a>
-  </div>
+<table align="center" cellpadding="10">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=aa-emon022&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="200" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-emon022&layout=compact&theme=radical" alt="Top Languages" height="200" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    </td>
+  </tr>
+</table>
 
-  <!-- Project 2 -->
-  <div style="background: #161b22; padding: 20px; border-radius: 15px; border: 1px solid #20C20E; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
-    <h3 style="color: #20C20E;">Modular ERP 🧩</h3>
-    <p>Scalable enterprise resource planning solution</p>
-    <a href="https://github.com/aa-emon022/erp-module" target="_blank">
-      <img src="https://img.shields.io/badge/-Repository-20C20E?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-    </a>
-  </div>
+---
 
-  <!-- Project 3 -->
-  <div style="background: #161b22; padding: 20px; border-radius: 15px; border: 1px solid #20C20E; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
-    <h3 style="color: #20C20E;">Real-time Chat 💬</h3>
-    <p>WebSocket-based communication platform</p>
-    <a href="https://github.com/aa-emon022/real-time-chat" target="_blank">
-      <img src="https://img.shields.io/badge/-Repository-20C20E?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-    </a>
-  </div>
-</div>
+### 🚀 Key Projects
 
-<!-- Tech Stack -->
-<h2 align="center" style="color: #20C20E; margin: 40px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🛠 Tech Stack</h2>
+| Project           | Description                              | Link                                                           |
+| ----------------- | ---------------------------------------- | -------------------------------------------------------------- |
+| Garment Tracker   | Garment production tracking system       | [Repo](https://github.com/aa-emon022/garment-tracker)          |
+| ERP Module        | Modular ERP solution                     | [Repo](https://github.com/aa-emon022/erp-module)               |
+| Real-time Chat    | WebSocket & Socket.IO chat application   | [Repo](https://github.com/aa-emon022/real-time-chat)           |
 
-<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; padding: 0 20px;">
-  <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="50" height="50"/>
-    <p>Laravel</p>
-  </div>
-  <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
-    <p>React</p>
-  </div>
-  <!-- Add more tech stack items following the same pattern -->
-</div>
+---
 
-<!-- Footer -->
-<div align="center" style="margin-top: 50px; padding: 20px; border-top: 2px solid #20C20E;">
-  <p style="color: #20C20E;">⚡ Innovation meets execution ⚡</p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aa-emon022.aa-emon022" alt="Visitor Count"/>
-</div>
+### 🛠️ Tech Stack
 
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-</style>
+<table align="center" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" /><br/>JavaScript
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" /><br/>PHP
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="50" height="50" /><br/>Laravel
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" /><br/>React.js
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" /><br/>Next.js
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" /><br/>MySQL
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" /><br/>Oracle
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" /><br/>Firebase
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" /><br/>AWS
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="50" height="50" /><br/>Socket.IO
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" width="50" height="50" /><br/>Framer Motion
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎯 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aa-emon022&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/aa-emon022/aa-emon022/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aa-emon022&theme=radical" alt="GitHub Streak" />
+</p>
