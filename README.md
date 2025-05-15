@@ -45,8 +45,10 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-emon022&layout=compact&theme=radical" alt="Top Languages" height="200" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
     </td>
-    <td align="center">
-      ### 📈 GitHub Streak
+   
+  </tr>
+  <tr>
+     <td align="center">
   <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aa-emon022&theme=radical" alt="GitHub Streak" height="200" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);"/>
 </p>
