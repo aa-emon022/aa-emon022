@@ -6,7 +6,7 @@
       <p style="font-size:18px;">
         🌟 Hi, I'm <b style="color:#f39c12;">Abdullah Al Emon</b><br>
         🚀 A passionate <b>Full-Stack Architect</b><br>
-        Specialized in building scalable and high-performance <b>ERP Solutions</b>.
+        Specializing in building scalable and high-performance <b>ERP Solutions</b>.
       </p>
     </td>
   </tr>
@@ -23,7 +23,7 @@
       <a href="https://www.linkedin.com/in/your-profile" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
       </a>
-      <a href="mailto:your-email@example.com">
+      <a href="mailto:abdullah.a.emon26@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
       <a href="https://yourportfolio.com" target="_blank">
@@ -47,7 +47,7 @@
     </td>
    
   </tr>
-  <tr>
+  <tr align="center">
      <td align="center">
   <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aa-emon022&theme=radical" alt="GitHub Streak" height="200" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);"/>
