@@ -2,7 +2,9 @@
 <table align="center">
   <tr>
     <td align="center" colspan="2">
-      <h1>👋 Welcome to My GitHub Profile!</h1>
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+      </h1>
       <p style="font-size:18px;">
         🌟 Hi, I'm <b style="color:#f39c12;">Abdullah Al Emon</b><br>
         🚀 A passionate <b>Full-Stack Architect</b><br>
