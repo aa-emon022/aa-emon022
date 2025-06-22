@@ -47,13 +47,25 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-emon022&layout=compact&theme=radical" alt="Top Languages" height="200" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
     </td>
-   
   </tr>
   <tr align="center">
-     <td align="center">
-  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aa-emon022&theme=radical" alt="GitHub Streak" height="200" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);"/>
-</p>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aa-emon022&theme=radical" alt="GitHub Streak" height="200" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);"/>
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <img src="https://github-profile-trophy.vercel.app/?username=aa-emon022&theme=radical&margin-w=10&column=4" alt="GitHub Trophy" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=aa-emon022&theme=github-compact" alt="GitHub Activity Graph" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <img src="https://raw.githubusercontent.com/aa-emon022/aa-emon022/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
     </td>
   </tr>
 </table>
@@ -72,50 +84,14 @@
 
 ### 🛠️ Tech Stack
 
-<table align="center" cellpadding="10" cellspacing="0">
-  <tr>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" /><br/>JavaScript
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" /><br/>PHP
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="50" height="50" /><br/>Laravel
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" /><br/>React.js
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" /><br/>Next.js
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" /><br/>MySQL
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" /><br/>Oracle
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" /><br/>Firebase
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" /><br/>AWS
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="50" height="50" /><br/>Socket.IO
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" width="50" height="50" /><br/>Framer Motion
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,mysql,oracle,js,firebase,aws,socketio,git" />
+</p>
 
 ---
+
 ### ✨ Visitors Counter
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/aa-emon022/count.svg" />
 </p>
-
-
-
