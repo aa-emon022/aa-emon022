@@ -1,17 +1,10 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,55:161B22,100:F7A41D&text=Abdullah%20A.%20Emon&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ERP%20Solutions&descAlignY=58&animation=fadeIn"
+    src="./assets/profile-hero.svg"
     width="100%"
-    alt="Abdullah A. Emon — Full-Stack Developer"
+    alt="Abdullah A. Emon — animated full-stack developer command center"
   />
-
-  <a href="https://github.com/aa-emon022">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=F7A41D&center=true&vCenter=true&width=760&lines=Full-Stack+Web+Developer;PHP+%E2%80%A2+Laravel+%E2%80%A2+JavaScript+%E2%80%A2+React;Building+reliable+ERP+%26+business+applications"
-      alt="Full-Stack Web Developer; PHP, Laravel, JavaScript and React; Building reliable ERP and business applications"
-    />
-  </a>
 
   <p>
     <a href="https://github.com/aa-emon022">
@@ -34,6 +27,14 @@ I am a full-stack developer focused on turning business requirements into reliab
 - ⚡ Focused on **performance, scalability, and clean implementation**
 - 🌱 Continuously improving across the **Laravel and JavaScript ecosystems**
 - 📍 Based in **Bangladesh**
+
+## Engineering approach
+
+<img
+  src="./assets/engineering-loop.svg"
+  width="100%"
+  alt="Animated engineering loop: discover, design, build, and improve"
+/>
 
 ## What I work with
 
@@ -126,8 +127,6 @@ I am interested in practical collaborations involving ERP platforms, business au
   </a>
 </p>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:F7A41D,50:161B22,100:0D1117"
-  width="100%"
-  alt=""
-/>
+<p align="center">
+  <sub>Designed with intent. Engineered for clarity.</sub>
+</p>
