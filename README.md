@@ -58,11 +58,11 @@ I am a full-stack developer focused on turning business requirements into reliab
 ## Selected work
 
 <p align="center">
-  <a href="https://github.com/aa-emon022/laravel_api_1st">
+  <a href="https://github.com/aa-emon022/ecommerce">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=aa-emon022&repo=laravel_api_1st&theme=github_dark&hide_border=true&title_color=F7A41D&icon_color=F7A41D"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=aa-emon022&repo=ecommerce&theme=github_dark&hide_border=true&title_color=F7A41D&icon_color=F7A41D"
       width="49%"
-      alt="Laravel API repository"
+      alt="E-commerce repository"
     />
   </a>
   <a href="https://github.com/aa-emon022/Hotel-Menagement">
