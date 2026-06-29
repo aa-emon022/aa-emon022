@@ -1,121 +1,133 @@
-<!-- Profile Header -->
-<table align="center">
-  <tr>
-    <td align="center" colspan="2">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
-      </h1>
-      <p style="font-size:18px;">
-        🌟 Hi, I'm <b style="color:#f39c12;">Abdullah Al Emon</b><br>
-        🚀 A passionate <b>Full-Stack Architect</b><br>
-        Specializing in building scalable and high-performance <b>ERP Solutions</b>.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300" />
-    </td>
-    <td align="center" width="50%">
-      <p style="font-size:16px;">
-        🌐 I love to collaborate, learn, and contribute to the tech community.<br><br>
-        📬 <b>Let’s connect and build something amazing together!</b>
-      </p>
-      <br>
-      <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-      </a>
-      <a href="mailto:abdullah.a.emon26@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <a href="https://yourportfolio.com" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,55:161B22,100:F7A41D&text=Abdullah%20A.%20Emon&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ERP%20Solutions&descAlignY=58&animation=fadeIn"
+    width="100%"
+    alt="Abdullah A. Emon — Full-Stack Developer"
+  />
 
-### 📊 GitHub Stats
+  <a href="https://github.com/aa-emon022">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=F7A41D&center=true&vCenter=true&width=760&lines=Full-Stack+Web+Developer;PHP+%E2%80%A2+Laravel+%E2%80%A2+JavaScript+%E2%80%A2+React;Building+reliable+ERP+%26+business+applications"
+      alt="Full-Stack Web Developer; PHP, Laravel, JavaScript and React; Building reliable ERP and business applications"
+    />
+  </a>
 
-<table align="center" cellpadding="10">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=aa-emon022&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="200" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-emon022&layout=compact&theme=radical" alt="Top Languages" height="200" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
-    </td>
-   
-  </tr>
-  <tr align="center">
-     <td align="center">
-  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aa-emon022&theme=radical" alt="GitHub Streak" height="200" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);"/>
-</p>
-    </td>
-  </tr>
-</table>
+  <p>
+    <a href="https://github.com/aa-emon022">
+      <img src="https://img.shields.io/badge/GitHub-aa--emon022-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+    </a>
+    <a href="mailto:abdullah.a.emon26@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Let's%20talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=aa-emon022&label=Profile%20views&color=F7A41D&style=for-the-badge" alt="Profile views" />
+  </p>
 
----
+</div>
 
-### 🚀 Key Projects
+## About me
 
-| Project           | Description                              | Link                                                           |
-| ----------------- | ---------------------------------------- | -------------------------------------------------------------- |
-| Garment Tracker   | Garment production tracking system       | [Repo](https://github.com/aa-emon022/garment-tracker)          |
-| ERP Module        | Modular ERP solution                     | [Repo](https://github.com/aa-emon022/erp-module)               |
-| Real-time Chat    | WebSocket & Socket.IO chat application   | [Repo](https://github.com/aa-emon022/real-time-chat)           |
+I am a full-stack developer focused on turning business requirements into reliable, maintainable web applications. My primary interests are ERP systems, backend architecture, responsive interfaces, and real-time application features.
 
----
+- 💼 Working at **Logic Software Ltd.**
+- 🧩 Building **ERP modules, REST APIs, and business workflows**
+- ⚡ Focused on **performance, scalability, and clean implementation**
+- 🌱 Continuously improving across the **Laravel and JavaScript ecosystems**
+- 📍 Based in **Bangladesh**
 
-### 🛠️ Tech Stack
+## What I work with
 
-<table align="center" cellpadding="10" cellspacing="0">
-  <tr>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" /><br/>JavaScript
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" /><br/>PHP
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="50" height="50" /><br/>Laravel
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" /><br/>React.js
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" /><br/>Next.js
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" /><br/>MySQL
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" /><br/>Oracle
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" /><br/>Firebase
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" /><br/>AWS
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="50" height="50" /><br/>Socket.IO
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" width="50" height="50" /><br/>Framer Motion
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
-### ✨ Visitors Counter
+  <img
+    src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,mysql,firebase,aws,git,github&perline=10"
+    alt="PHP, Laravel, JavaScript, React, Next.js, MySQL, Firebase, AWS, Git and GitHub"
+  />
+
+  <br />
+  <br />
+
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/REST%20API-0D1117?style=flat-square&logo=postman&logoColor=FF6C37" alt="REST APIs" />
+
+</div>
+
+## Selected work
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/aa-emon022/count.svg" />
+  <a href="https://github.com/aa-emon022/laravel_api_1st">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=aa-emon022&repo=laravel_api_1st&theme=github_dark&hide_border=true&title_color=F7A41D&icon_color=F7A41D"
+      width="49%"
+      alt="Laravel API repository"
+    />
+  </a>
+  <a href="https://github.com/aa-emon022/Hotel-Menagement">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=aa-emon022&repo=Hotel-Menagement&theme=github_dark&hide_border=true&title_color=F7A41D&icon_color=F7A41D"
+      width="49%"
+      alt="Hotel Management repository"
+    />
+  </a>
+  <a href="https://github.com/aa-emon022/news-Full-Stack">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=aa-emon022&repo=news-Full-Stack&theme=github_dark&hide_border=true&title_color=F7A41D&icon_color=F7A41D"
+      width="49%"
+      alt="Full-Stack News repository"
+    />
+  </a>
+  <a href="https://github.com/aa-emon022/portfolio-nextjs">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=aa-emon022&repo=portfolio-nextjs&theme=github_dark&hide_border=true&title_color=F7A41D&icon_color=F7A41D"
+      width="49%"
+      alt="Next.js Portfolio repository"
+    />
+  </a>
 </p>
 
+## GitHub insights
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aa-emon022&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true&title_color=F7A41D&icon_color=F7A41D"
+    width="49%"
+    alt="Abdullah's GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-emon022&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=F7A41D"
+    width="49%"
+    alt="Abdullah's most-used languages"
+  />
+</p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=aa-emon022&theme=github-dark-blue&hide_border=true&ring=F7A41D&fire=F7A41D&currStreakLabel=F7A41D"
+    width="70%"
+    alt="Abdullah's GitHub contribution streak"
+  />
+</p>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=aa-emon022&bg_color=0D1117&color=C9D1D9&line=F7A41D&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+  alt="Abdullah's GitHub contribution activity graph"
+/>
+
+## Let's build something useful
+
+I am interested in practical collaborations involving ERP platforms, business automation, APIs, and modern web applications.
+
+<p align="center">
+  <a href="mailto:abdullah.a.emon26@gmail.com">
+    <img src="https://img.shields.io/badge/Start%20a%20conversation-abdullah.a.emon26%40gmail.com-F7A41D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abdullah A. Emon" />
+  </a>
+</p>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:F7A41D,50:161B22,100:0D1117"
+  width="100%"
+  alt=""
+/>
