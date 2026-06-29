@@ -26,6 +26,14 @@
   alt="Animated profile card: Abdullah A. Emon, full-stack developer focused on ERP systems, APIs, automation, and reliable software"
 />
 
+I am a full-stack developer focused on turning business requirements into reliable, maintainable web applications. My primary interests are ERP systems, backend architecture, responsive interfaces, and real-time application features.
+
+- 💼 Working at **Logic Software Ltd.**
+- 🧩 Building **ERP modules, REST APIs, and business workflows**
+- ⚡ Focused on **performance, scalability, and clean implementation**
+- 🌱 Continuously improving across the **Laravel and JavaScript ecosystems**
+- 📍 Based in **Bangladesh**
+
 ## Engineering approach
 
 <img
